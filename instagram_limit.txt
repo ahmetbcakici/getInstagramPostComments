@@ -1,0 +1,4 @@
+Regarding hourly limits, we find that with new accounts that only been active for a few months, you can only follow/unfollow about 20 users an hour, and a maximum of 100-200 users in a day. 
+For accounts that have been active for years, the limits will increase to about 50 follows/unfollows an hour, and a maximum of 300-400 users in a day.
+
+My experience : 40 limit in a hour
